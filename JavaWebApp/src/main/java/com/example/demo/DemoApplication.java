@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
-		String name ="charlie"
+		String name = "charlie";
 		System.out.println(name);
 	}
 
